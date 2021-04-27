@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "SmicApp_V2"

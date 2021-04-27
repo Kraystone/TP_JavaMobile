@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SmicApp_V2</string>
+    <string name="est">est</string>
+    <string name="calculer">Calculer</string>
+    <string name="combien_gagnez_vous">Combien gagnez vous ?</string>
+    <string name="smicapp">SmicApp</string>
+    <string name="description">description</string>
+    <string name="couleur_du_fond_d_cran">Couleur du fond d\'écran</string>
+    <string name="bleu">Bleu</string>
+    <string name="gris">Gris</string>
+    <string name="vert">Vert</string>
+    <string name="votre_selection">Votre selection:</string>
+    <string name="enregistrer">Enregistrer</string>
+    <string name="retour">Retour</string>
+    <string name="votre_salaire">Votre salaire</string>
+    <string name="choix_de_la_devise">Choix de la devise</string>
+    <string name="textview">TextView</string>
+    <string name="votre_devise">Votre devise</string>
+    <string name="Ans">Ans</string>
+    <string name="Mois">Mois</string>
+</resources>
